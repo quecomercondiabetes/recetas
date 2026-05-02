@@ -51,10 +51,10 @@ weight = 10
 
 [[menus.main]]
 name = "Categorías"
-url = "/categorias"
+url = "/categories"
 weight = 20
 
 [[menus.main]]
 name = "Etiquetas"
-url = "/etiquetas"
+url = "/tags"
 weight = 30
