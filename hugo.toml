@@ -1,5 +1,5 @@
 baseURL = 'https://quecomercondiabetes.com/'
-languageCode = es-ES'
+languageCode = 'es-ES'
 title = 'Qué comer con diabetes'
 
 # Google Analytics 4 - Just add your G-XXXXXXXXXX ID here
