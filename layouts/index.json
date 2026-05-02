@@ -11,8 +11,8 @@
             "content": {{ .Plain | jsonify }},
             "permalink": {{ .Permalink | jsonify }},
             "summary": {{ .Summary | jsonify }},
-            "tags": {{ .Params.tags | jsonify }},
-            "categories": {{ .Params.categories | jsonify }},
+            "etiquetas": {{ .Params.tags | jsonify }},
+            "categorias": {{ .Params.categories | jsonify }},
             "type": {{ if eq .Kind "taxonomy" }}"authors"{{ else }}{{ .Type | jsonify }}{{ end }},
             "date": {{ .Date.Format "2006-01-02" | jsonify }}
         }
