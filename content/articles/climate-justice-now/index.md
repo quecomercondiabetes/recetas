@@ -5,7 +5,7 @@ draft: false
 author: "Xavier - Qué comer con diabetes"
 categories: ["Berenjena", "Acompañamiento", "Keto"]
 tags: ["climate crisis", "resistance", "decolonial struggle"]
-featured_image: "ice.png"
+featured_image: "SALTEADO DE CALABACIN.png"
 comments: true
 ---
 
