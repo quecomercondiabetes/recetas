@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-US'
-title = 'My Hugo news site'
+baseURL = 'https://quecomercondiabetes.com/'
+languageCode = es-ES'
+title = 'Qué comer con diabetes'
 
 # Google Analytics 4 - Just add your G-XXXXXXXXXX ID here
 googleAnalytics = "" # e.g. "G-MEASUREMENT_ID"
@@ -45,16 +45,16 @@ googleAnalytics = "" # e.g. "G-MEASUREMENT_ID"
   home = ["HTML", "RSS", "JSON"]
 
 [[menus.main]]
-name = "Home"
+name = "Inicio"
 url = "/"
 weight = 10
 
 [[menus.main]]
-name = "Categories"
-url = "/categories"
+name = "Categorías"
+url = "/categorias"
 weight = 20
 
 [[menus.main]]
-name = "Tags"
-url = "/tags"
+name = "Etiquetas"
+url = "/etiquetas"
 weight = 30
