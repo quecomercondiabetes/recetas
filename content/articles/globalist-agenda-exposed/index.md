@@ -6,8 +6,27 @@ author: "Buck Patriot"
 categories: ["Deep State", "Freedom Alert", "Constitutional Rights"]
 tags: ["globalist agenda", "financial freedom", "sovereignty"]
 featured_image: "surveillance.png"
-comments: true
+comments: false
 ---
+
+## jashdk
+### 3r titol
+
+-
+TEST SEPARADOR
+
+--
+TEST SEPARADOR
+
+- jskhad
+- asdkfjlsdkjf
+- sadkjads
+
+*Cursiva*
+
+**NEGRETA**
+
+
 
 In a shocking development that the mainstream media won't tell you about, global banking elites are accelerating their plan to eliminate physical currency and force Americans into a dystopian digital money system. My sources inside the Treasury Department have confirmed what patriots have long suspected - this isn't about convenience, it's about CONTROL.
 
